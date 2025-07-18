@@ -1,9 +1,8 @@
-# 👋 Hello! I'm Matiur Rahman
+# 👋 Hello! I'm Matiur Rahman  
+💡 **Passionate about automating infrastructure, scaling systems, and shipping reliable software.**
 
 🚀 **Cloud/DevOps Engineer** | 💻 Software Engineer | 🌐 Open to Work  
 📍 Dhaka, Bangladesh | 🏆 9+ years of experience  
-💡 **Passionate about automating infrastructure, scaling systems, and shipping reliable software.**  
-
 
 
 ---
