@@ -12,7 +12,7 @@
 **DevOps & Cloud**  
 🚀 AWS (EC2, S3, RDS, Route53, EKS, CloudWatch)  
 📦 Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD  
-🛠️ Prometheus, Grafana, Shell Scripting, Datadog, ELK Stack (Elasticsearch, Logstash, Kibana), Jenkins, Ansible, Helm, Fluentd, Vault, New Relic, Splunk
+🛠️ Prometheus, Grafana, Shell Scripting, Datadog, ELK Stack (Elasticsearch, Logstash, Kibana), Jenkins, Ansible, Helm, Fluentd, Vault
 
 **Programming & Web**  
 💻 PHP, Python, Java, C/C++, Laravel, CakePHP, Vue.js, REST API  
