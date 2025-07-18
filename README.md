@@ -33,9 +33,7 @@ Make sure to pin:
 
 ## 📜 Certifications
 
-- ✅ **AWS Certified Solutions Architect – Associate**  
-  🔗 [Validate Credential](http://aws.amazon.com/verification)  
-- 🎓 National ICT Internship – Bangladesh Computer Council (BCC)  
+- ✅ **AWS Certified Solutions Architect – Associate**   
 - 🈴 JLPT N5 – Japanese Language Proficiency Test
 
 ---
@@ -46,7 +44,7 @@ Make sure to pin:
 - 📧 Email: [matiur756@gmail.com](mailto:matiur756@gmail.com)  
 - 💼 LinkedIn: [in/matiur-rahman-mozumdar](https://www.linkedin.com/in/matiur-rahman-mozumdar/)  
 - 💻 GitHub: [@matiur-rm](https://github.com/matiur-rm)  
-- 📱 Phone: +88 01820089541
+- 📱 Phone or whatsApp : +88 01820089541
 
 ---
 
