@@ -2,6 +2,8 @@
 
 🚀 **Cloud/DevOps Engineer** | 💻 Software Engineer | 🌐 Open to Work  
 📍 Dhaka, Bangladesh | 🏆 9+ years of experience
+🧠 _“Passionate about automating infrastructure, scaling systems, and shipping reliable software.”_
+
 
 ---
 
@@ -46,6 +48,3 @@ Make sure to pin:
 - 💻 GitHub: [@matiur-rm](https://github.com/matiur-rm)  
 - 📱 Phone or whatsApp : +88 01820089541
 
----
-
-🧠 _“Building robust infrastructure with clean code and secure pipelines.”_
