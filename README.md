@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Matiur Rahman Mozumdar
+# 👋 Hello! I'm Matiur Rahman
 
-🚀 **DevOps Engineer** | 💻 Software Engineer | 🌐 Open to Work  
+🚀 **Cloud/DevOps Engineer** | 💻 Software Engineer | 🌐 Open to Work  
 📍 Dhaka, Bangladesh | 🏆 9+ years of experience
 
 ---
