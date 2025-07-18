@@ -1,23 +1,53 @@
-# 👋 Hi, I'm Matiur Rahman
+# 👋 Hello! I'm Matiur Rahman Mozumdar
 
-🔧 DevOps Engineer | AWS | Kubernetes | Docker | CI/CD | Terraform
+🚀 **DevOps Engineer** | 💻 Software Engineer | 🌐 Open to Work  
+📍 Dhaka, Bangladesh | 🏆 9+ years of experience
 
-💼 10+ years of experience in software operations, infrastructure automation, and cloud-native development.
+---
 
-🌍 Based in Dhaka, Bangladesh | Open to Remote Work
+## 🧰 Tech Toolbox
 
-## 🧰 Tech Stack
-- **Cloud:** AWS, GCP, Azure
-- **Containers:** Docker, Kubernetes, Helm
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, ArgoCD
-- **Infra-as-Code:** Terraform, CloudFormation
-- **Scripting:** Bash, Python
-- **Monitoring:** Prometheus, Grafana, ELK
+**DevOps & Cloud**  
+🚀 AWS (EC2, S3, RDS, Route53, EKS, CloudWatch)  
+📦 Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD  
+🛠️ Prometheus, Grafana, Shell Scripting, Datadog, ELK Stack (Elasticsearch, Logstash, Kibana), Jenkins, Ansible, Helm, Fluentd, Vault, New Relic, Splunk
 
-## 📂 Featured Projects
-- [eks-cluster-infra](https://github.com/matiur-rm/eks-cluster-infra): Production-grade AWS EKS setup with Terraform
-- [laravel-docker-setup](https://github.com/matiur-rm/laravel-docker-setup): Dockerized Laravel with NGINX, PHP-FPM, Node.js SSR
+**Programming & Web**  
+💻 PHP, Python, Java, C/C++, Laravel, CakePHP, Vue.js, REST API  
+🗄️ MySQL, PostgreSQL, Oracle  
+📊 Redis, Firebase, Stripe, PayPal, Prodigi APIs  
+🎨 HTML5, CSS3, Bootstrap, Sass, jQuery
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/matiur-rahman-mozumdar/)
-- 🌐 [Portfolio/Blog](#)
+---
+
+## 📌 Pinned Projects (Suggestions)
+
+Make sure to pin:  
+- [`eks-cluster-infra`](https://github.com/matiur-rm/eks-cluster-infra) – AWS EKS with Terraform  
+- [`laravel-docker-setup`](https://github.com/matiur-rm/laravel-docker-setup) – Dockerized Laravel SSR app  
+- [`aws-ci-pipeline`](https://github.com/matiur-rm/aws-ci-pipeline) – GitHub Actions + AWS Deployment  
+- [`node-docker-template`](https://github.com/matiur-rm/node-docker-template) – Basic Node.js Docker starter  
+- [`terraform-modules`](https://github.com/matiur-rm/terraform-modules) – Reusable Terraform modules for AWS
+
+---
+
+## 📜 Certifications
+
+- ✅ **AWS Certified Solutions Architect – Associate**  
+  🔗 [Validate Credential](http://aws.amazon.com/verification)  
+- 🎓 National ICT Internship – Bangladesh Computer Council (BCC)  
+- 🈴 JLPT N5 – Japanese Language Proficiency Test
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Website: [matiur.me](http://www.matiur.me)  
+- 📧 Email: [matiur756@gmail.com](mailto:matiur756@gmail.com)  
+- 💼 LinkedIn: [in/matiur-rahman-mozumdar](https://www.linkedin.com/in/matiur-rahman-mozumdar/)  
+- 💻 GitHub: [@matiur-rm](https://github.com/matiur-rm)  
+- 📱 Phone: +88 01820089541
+
+---
+
+🧠 _“Building robust infrastructure with clean code and secure pipelines.”_
