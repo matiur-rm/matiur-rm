@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Matiur Rahman
 
-<!--
-**matiur-rm/matiur-rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 DevOps Engineer | AWS | Kubernetes | Docker | CI/CD | Terraform
 
-Here are some ideas to get you started:
+💼 10+ years of experience in software operations, infrastructure automation, and cloud-native development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based in Dhaka, Bangladesh | Open to Remote Work
+
+## 🧰 Tech Stack
+- **Cloud:** AWS, GCP, Azure
+- **Containers:** Docker, Kubernetes, Helm
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, ArgoCD
+- **Infra-as-Code:** Terraform, CloudFormation
+- **Scripting:** Bash, Python
+- **Monitoring:** Prometheus, Grafana, ELK
+
+## 📂 Featured Projects
+- [eks-cluster-infra](https://github.com/matiur-rm/eks-cluster-infra): Production-grade AWS EKS setup with Terraform
+- [laravel-docker-setup](https://github.com/matiur-rm/laravel-docker-setup): Dockerized Laravel with NGINX, PHP-FPM, Node.js SSR
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/matiur-rahman-mozumdar/)
+- 🌐 [Portfolio/Blog](#)
