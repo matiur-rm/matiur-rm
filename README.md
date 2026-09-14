@@ -25,7 +25,7 @@
 ## 📌 Pinned Projects (Suggestions)
 
 Make sure to pin:  
-- [`eks-cluster-infra`](https://github.com/matiur-rm/eks-cluster-infra) – AWS EKS with Terraform  
+- [`eks-cluster-infra`](https://github.com/matiur-rm/aws-eks-devops-platform) – AWS EKS with Terraform  
 - [`laravel-docker-setup`](https://github.com/matiur-rm/laravel-docker-setup) – Dockerized Laravel SSR app  
 - [`aws-ci-pipeline`](https://github.com/matiur-rm/aws-ci-pipeline) – GitHub Actions + AWS Deployment  
 - [`node-docker-template`](https://github.com/matiur-rm/node-docker-template) – Basic Node.js Docker starter  
