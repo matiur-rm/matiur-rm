@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Matiur Rahman  
 💡 **Passionate about automating infrastructure, scaling systems, and shipping reliable software.**
 
-🚀 **DevOps Engineer | Site Reliability & Cloud Infrastructure**
-💻 Software Engineer | ☁️ AWS & Kubernetes | 🌐 Open to Work
+🚀 **DevOps Engineer | Site Reliability & Cloud Infrastructure** <br />
+💻 Software Engineer | ☁️ AWS & Kubernetes | 🌐 Open to Work <br />
 📍 Dhaka, Bangladesh | 🏆 11+ Years of Experience in DevOps, Cloud & Software Engineering
 
 
