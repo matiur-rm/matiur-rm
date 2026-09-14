@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Matiur Rahman  
-💡 **Passionate about automating infrastructure, scaling systems, and shipping reliable software.**
+💡 **DevOps Engineer focused on building reliable infrastructure, automating deployments, and improving system scalability and performance.**
 
 🚀 **DevOps Engineer | Site Reliability & Cloud Infrastructure** <br />
 💻 Software Engineer | ☁️ AWS & Kubernetes | 🌐 Open to Work <br />
